@@ -1,1 +1,1 @@
-# scrable number
+# number scrabble
